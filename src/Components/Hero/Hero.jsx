@@ -25,8 +25,7 @@ const Hero = () => {
         </div>
         <div>
             <span>Ideal Body</span>
-        </div>
-       
+        </div> 
        <div>
        <span>
        Train hard, stay strong, and become the best version of yourself
